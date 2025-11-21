@@ -1,0 +1,6 @@
+Query,Flan-T5-Base,TinyLlama-1.1B
+What are attention mechanisms in transformer models?,self-attention computation,Attention mechanisms in transformer models are designed to process and focus information from different dimensions of the input sequence. The attention mechanism involves weighting the importance of each position in the sequence based on the relevance of that position to the current output. The atte
+How do large language models process natural language?,vec,"Large language models (LLMs) process natural language by processing words, phrases, and sentences. They do this by taking in a text input and generating a sequence of output tokens based on the principles of natural language processing (NLP). These LLMs use a variety of techniques, including attenti"
+What is retrieval augmented generation?,modality,"Retrieval augmented generation (RAG) is a type of machine learning model that utilizes retrieval and generation techniques to improve document retrieval and question answering skills. It involves two main components: retrieval augmentation and generation augmentation. 
+
+In the retrieval augmentation"

@@ -1,0 +1,11 @@
+Query,Flan_T5_Answer,Flan_T5_Citations,TinyLlama_Answer,TinyLlama_Citations
+What are attention mechanisms in transformer model...,self-attention computation...,3,Attention mechanisms in transformer models refer to the attention operation that weights the importa...,3
+How do large language models process natural langu...,vec...,4,"Large-scale language models, such as BERT, are trained on a vast corpus of text and can process natu...",4
+What is retrieval augmented generation?...,modality...,4,Retrieval augmented generation (RAG) is a technique for improving the performance of document retrie...,4
+Explain the benefits of pre-training in NLP...,pre-training provides an explicit and share- able blueprint for an analysis...,3,Pre-training in Natural Language Processing (NLP) refers to pre-processing and pre-processing steps ...,3
+How does BERT differ from GPT models?...,These models have been widely applied in variou...,4,BERT (Bidirectional Encoder Representations from Transformers) and GPT (Generative Pre-trained Trans...,4
+What are the main challenges in neural machine tra...,Continual Reinforcement Learning for Cyber-Physical Systems...,4,"The main challenges in neural machine translation (NMT) include:
+
+1. Model capacity: The size and co...",4
+How do embeddings capture semantic meaning?...,en- code each modality separately...,3,Embeddings are a type of artificial neural network that capture the relationship between text and th...,3
+What is the role of positional encoding in transfo...,captures essential spatial information about the environment...,4,"In the context of transformer models, positional encoding is a technique used to account for the pos...",4

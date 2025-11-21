@@ -1,0 +1,26 @@
+Alpha,Strategy,Query,Avg_Score,Unique_Papers
+0.0,BM25,What are attention mechanisms in transformer model,21.76497563206531,3
+0.0,BM25,How do large language models process natural langu,15.029240413773625,4
+0.0,BM25,What is retrieval augmented generation?,18.22253833506551,4
+0.0,BM25,Explain the benefits of pre-training in NLP,25.41068877624924,3
+0.0,BM25,How does BERT differ from GPT models?,15.57315516944955,4
+0.3,Hybrid(α=0.3),What are attention mechanisms in transformer model,15.235482942445714,3
+0.3,Hybrid(α=0.3),How do large language models process natural langu,10.520468289641537,4
+0.3,Hybrid(α=0.3),What is retrieval augmented generation?,12.755776834545857,4
+0.3,Hybrid(α=0.3),Explain the benefits of pre-training in NLP,17.78748214337447,3
+0.3,Hybrid(α=0.3),How does BERT differ from GPT models?,10.901208618614683,4
+0.5,Hybrid(α=0.5),What are attention mechanisms in transformer model,10.882487816032654,3
+0.5,Hybrid(α=0.5),How do large language models process natural langu,7.514620206886812,4
+0.5,Hybrid(α=0.5),What is retrieval augmented generation?,9.111269167532756,4
+0.5,Hybrid(α=0.5),Explain the benefits of pre-training in NLP,12.70534438812462,3
+0.5,Hybrid(α=0.5),How does BERT differ from GPT models?,7.786577584724775,4
+0.7,Hybrid(α=0.7),What are attention mechanisms in transformer model,6.529492689619593,3
+0.7,Hybrid(α=0.7),How do large language models process natural langu,4.508772124132088,4
+0.7,Hybrid(α=0.7),What is retrieval augmented generation?,5.466761500519654,4
+0.7,Hybrid(α=0.7),Explain the benefits of pre-training in NLP,7.623206632874774,3
+0.7,Hybrid(α=0.7),How does BERT differ from GPT models?,4.671946550834866,4
+1.0,Dense,What are attention mechanisms in transformer model,0.674644947052002,5
+1.0,Dense,How do large language models process natural langu,0.69319589138031,4
+1.0,Dense,What is retrieval augmented generation?,0.6644693732261657,5
+1.0,Dense,Explain the benefits of pre-training in NLP,0.7922885894775391,5
+1.0,Dense,How does BERT differ from GPT models?,0.6923356413841247,5

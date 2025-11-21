@@ -1,0 +1,21 @@
+Model,Query,Avg_Score,Unique_Papers
+SciBERT,What are attention mechanisms in transformer model,0.674644947052002,5
+SciBERT,How do large language models process natural langu,0.69319589138031,4
+SciBERT,What is retrieval augmented generation?,0.6644693732261657,5
+SciBERT,Explain the benefits of pre-training in NLP,0.7922885894775391,5
+SciBERT,How does BERT differ from GPT models?,0.6923356413841247,5
+MiniLM,What are attention mechanisms in transformer model,0.5476089835166931,5
+MiniLM,How do large language models process natural langu,0.6109136819839478,5
+MiniLM,What is retrieval augmented generation?,0.4802432477474213,5
+MiniLM,Explain the benefits of pre-training in NLP,0.49857516288757325,4
+MiniLM,How does BERT differ from GPT models?,0.4313844919204712,5
+MPNet,What are attention mechanisms in transformer model,0.48566425442695615,5
+MPNet,How do large language models process natural langu,0.5891515254974365,5
+MPNet,What is retrieval augmented generation?,0.5155877292156219,5
+MPNet,Explain the benefits of pre-training in NLP,0.41989743113517763,4
+MPNet,How does BERT differ from GPT models?,0.4321934998035431,4
+Instructor,What are attention mechanisms in transformer model,0.9021349549293518,5
+Instructor,How do large language models process natural langu,0.9109365224838257,5
+Instructor,What is retrieval augmented generation?,0.888617467880249,4
+Instructor,Explain the benefits of pre-training in NLP,0.8919141173362732,5
+Instructor,How does BERT differ from GPT models?,0.8988808631896973,5

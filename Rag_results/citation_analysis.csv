@@ -1,0 +1,17 @@
+Query,Model,Answer_Length,Num_Citations,Citations_Per_100_Words
+What are attention mechanisms in transfo...,Flan-T5-Base,2,3,150.0
+What are attention mechanisms in transfo...,TinyLlama-1.1B,207,3,1.45
+How do large language models process nat...,Flan-T5-Base,1,4,400.0
+How do large language models process nat...,TinyLlama-1.1B,169,4,2.37
+What is retrieval augmented generation?...,Flan-T5-Base,1,4,400.0
+What is retrieval augmented generation?...,TinyLlama-1.1B,190,4,2.11
+Explain the benefits of pre-training in ...,Flan-T5-Base,11,3,27.27
+Explain the benefits of pre-training in ...,TinyLlama-1.1B,182,3,1.65
+How does BERT differ from GPT models?...,Flan-T5-Base,8,4,50.0
+How does BERT differ from GPT models?...,TinyLlama-1.1B,175,4,2.29
+What are the main challenges in neural m...,Flan-T5-Base,6,4,66.67
+What are the main challenges in neural m...,TinyLlama-1.1B,174,4,2.3
+How do embeddings capture semantic meani...,Flan-T5-Base,5,3,60.0
+How do embeddings capture semantic meani...,TinyLlama-1.1B,214,3,1.4
+What is the role of positional encoding ...,Flan-T5-Base,7,4,57.14
+What is the role of positional encoding ...,TinyLlama-1.1B,183,4,2.19

@@ -1,0 +1,11 @@
+Model,Query,ROUGE-1,ROUGE-2,BLEU,Answer_Length
+Flan-T5-Base,What are attention mechanisms in transformer model,0.2,0.0,0.0,2
+TinyLlama-1.1B,What are attention mechanisms in transformer model,0.2857142857142857,0.10416666666666667,0.054796327195005344,81
+Flan-T5-Base,How do large language models process natural langu,0.0,0.0,0.0,1
+TinyLlama-1.1B,How do large language models process natural langu,0.1702127659574468,0.043478260869565216,0.0072366140632148775,75
+Flan-T5-Base,What is retrieval augmented generation?,0.0,0.0,0.0,1
+TinyLlama-1.1B,What is retrieval augmented generation?,0.20689655172413793,0.047058823529411764,0.01565320997099046,71
+Flan-T5-Base,Explain the benefits of pre-training in NLP,0.16,0.08695652173913043,0.017212239801819764,11
+TinyLlama-1.1B,Explain the benefits of pre-training in NLP,0.17204301075268819,0.04395604395604395,0.006347974042355346,76
+Flan-T5-Base,How does BERT differ from GPT models?,0.0,0.0,0.0,8
+TinyLlama-1.1B,How does BERT differ from GPT models?,0.11235955056179776,0.0,0.0031845144858397693,75

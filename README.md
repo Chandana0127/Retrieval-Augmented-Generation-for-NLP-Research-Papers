@@ -255,16 +255,12 @@ This project is developed for academic purposes as part of CSE 575 at Arizona St
 
 ## 🤝 Contributing
 
-This is an academic project. For questions or suggestions, please contact the team members through their ASU email addresses.
+This is an academic project. For questions or suggestions, please contact the me through the email addresses mentioned below.
 
 ## 📧 Contact
 
 For inquiries about this project, please reach out to:
-- Chandana Vinay Kumar: [ASU Email]
-- Project Repository: [GitHub Link]
+- Chandana Vinay Kumar: cvinayku@asu.edu
+- Project Repository: http://github.com/Chandana0127/Retrieval-Augmented-Generation-for-NLP-Research-Papers
 
 ---
-
-**Course**: CSE 575 - Statistical Machine Learning  
-**Institution**: Arizona State University  
-**Semester**: Fall 2024
